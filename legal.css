@@ -1,0 +1,18 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  max-width: 42rem;
+  margin: 2rem auto;
+  padding: 0 1.25rem;
+  color: #fff8f5;
+  background: #1d130b;
+  line-height: 1.55;
+}
+h1, h2 {
+  font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+  color: #ffede5;
+}
+h1 { font-size: 1.75rem; margin-bottom: 0.35rem; }
+h2 { font-size: 1.15rem; margin-top: 1.75rem; }
+p, li { color: #d4c4b0; }
+a { color: #e5a93c; }
+ul { padding-left: 1.2rem; }
