@@ -1,11 +1,15 @@
+html {
+  background: #1d130b;
+}
 body {
   font-family: Georgia, "Times New Roman", serif;
   max-width: 42rem;
-  margin: 2rem auto;
-  padding: 0 1.25rem;
+  margin: 0 auto;
+  padding: 1.25rem 1.25rem 2.5rem;
   color: #fff8f5;
   background: #1d130b;
   line-height: 1.55;
+  -webkit-text-size-adjust: 100%;
 }
 h1, h2 {
   font-family: "Trebuchet MS", "Segoe UI", sans-serif;
